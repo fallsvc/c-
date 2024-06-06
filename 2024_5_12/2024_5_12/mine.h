@@ -7,9 +7,9 @@
 #include <ctime>
 using namespace std;
 
-#define ROW 10
-#define COL 10
-#define _MINE 2
+#define ROW 15
+#define COL 15
+#define _MINE 20
 #define imageWidth 40
 
 //сно╥
